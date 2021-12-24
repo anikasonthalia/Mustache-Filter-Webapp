@@ -1,0 +1,13 @@
+h1
+{
+  font-size: 25px !important;
+}
+
+canvas
+{
+    border:1px solid white;
+}
+
+body {
+  background-size: cover;
+}
